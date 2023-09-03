@@ -38,7 +38,7 @@ Here's an overview of the technology stack used in the Quiz Game:
 
 In summary, the Quiz Game is built using C programming, leveraging its robust capabilities to create an engaging and interactive quiz contest experience. The technology stack ensures smooth user interaction, dynamic question selection, and effective scoring while maintaining a user-friendly interface for players to enjoy.
 
-# 2.system architecture
+# 2. System architecture
 Let's break down the system architecture for the Quiz Game, designed to facilitate quiz contests. The architecture consists of three main components: Front-End, Back-End, and Database.
 
 ###  2.1 Front-End:
