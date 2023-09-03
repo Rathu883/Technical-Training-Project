@@ -167,6 +167,14 @@ Future enhancements, such as multiplayer support, category differentiation, impr
 
 Overall, the Quiz Game is a testament to the versatility of C programming and the potential for creating interactive and enjoyable experiences within a console-based environment.
 
+# Flowchart
+![Flow Chart (1)](https://github.com/Rathu883/Technical-Training-Project/assets/121967605/1bb6e69f-d863-40f2-8b0a-b31e005e2acf)
+
+# Mind map
+![Mind Map](https://github.com/Rathu883/Technical-Training-Project/assets/121967605/0d55c5fc-8c3b-4bc2-bfa2-0ceca4771a6c)
+
+
+
 ### References:
 
 As this is a hypothetical scenario and no specific external references were used, the design and development of the Quiz Game are based on general principles of software development and game design. Any specific references or libraries used in a real-world implementation would depend on the developer's choices and requirements.
