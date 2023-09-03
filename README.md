@@ -101,7 +101,6 @@ The front-end of the Quiz Game is responsible for user interaction, display, and
 - **Console-Based User Interface:** Utilize C's standard input/output functions to create a text-based console interface.
 - **User Input:** Prompt the user to enter their name before the game begins and capture their input.
 - **Question Presentation:** Display questions, multiple-choice options, and the current score at the top of the screen.
-- **Timer (Optional):** If desired, implement a timer for each question, updating the time remaining on the screen.
 - **Round Progress:** Indicate the current round number and the number of rounds remaining.
 - **Answer Input:** Allow users to input their answers using keyboard input.
 - **Validation:** Implement input validation to ensure that user responses are correctly processed.
