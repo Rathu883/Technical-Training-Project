@@ -26,6 +26,14 @@ int main() {
     // Initialize player's name and score
     char playerName[50];
     int totalScore = 0;
+    	printf("\n\n\n\n\n\n");
+		printf("\n\t   +-------+                          ___       ___                             ");
+		printf("\n\t   |       |      |         |            |                /                              ");
+		printf("\n\t   |       |      |         |            |               /                               ");
+		printf("\n\t   |       |      |         |            |              /                                ");
+		printf("\n\t   |    // |      |         |            |             /                                 ");
+		printf("\n\t   |   //  |      |         |            |            /                                  ");
+		printf("\n\t   +--//---+      |___|         _|_        /___                          ");
 
     printf("Welcome to the Quiz Game!\n");
     printf("Enter your name: ");
