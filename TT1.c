@@ -27,15 +27,15 @@ int main() {
     char playerName[50];
     int totalScore = 0;
     	printf("\n\n\n\n\n\n");
-		printf("\n\t   +-------+                          ___       ___                             ");
+		printf("\n\t   +-------+      |         |            __         ________                         ");
 		printf("\n\t   |       |      |         |            |                /                              ");
 		printf("\n\t   |       |      |         |            |               /                               ");
 		printf("\n\t   |       |      |         |            |              /                                ");
 		printf("\n\t   |    // |      |         |            |             /                                 ");
 		printf("\n\t   |   //  |      |         |            |            /                                  ");
-		printf("\n\t   +--//---+      |___|         _|_        /___                          ");
+		printf("\n\t   +--//---+      |_________|           _|_          /________                        ");
 
-    printf("Welcome to the Quiz Game!\n");
+    printf("\t\t\t\t\t\t\n\n\n\n\n\nWelcome to the Quiz Game!\n");
     printf("Enter your name: ");
     scanf("%s", playerName);
 
